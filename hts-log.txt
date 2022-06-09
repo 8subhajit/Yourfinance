@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 09 Jun 2022 20:46:05 at https://yourfinance66875445.wordpress.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://yourfinance66875445.wordpress.com/ -O1 "C:\My Web Sites\Yourfinance" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:46:52	Error: 	"Not Found" (404) at link https://yourfinance66875445.wordpress.com/GET (from https://yourfinance66875445.wordpress.com/)
+20:46:56	Error: 	"Not Found" (404) at link https://yourfinance66875445.wordpress.com/blog/GET (from https://yourfinance66875445.wordpress.com/blog/)
+20:46:57	Error: 	"Not Found" (404) at link https://yourfinance66875445.wordpress.com/podcast/GET (from https://yourfinance66875445.wordpress.com/podcast/)
+20:46:57	Error: 	"Not Found" (404) at link https://yourfinance66875445.wordpress.com/about-2/GET (from https://yourfinance66875445.wordpress.com/about-2/)
+20:46:57	Error: 	"Not Found" (404) at link https://yourfinance66875445.wordpress.com/contact/GET (from https://yourfinance66875445.wordpress.com/contact/)
+20:47:15	Warning: 	Found for https://yourfinance66875445.wordpress.com/2021/12/27/fiat-money/?share=twitter
+20:47:15	Warning: 	File has moved from https://yourfinance66875445.wordpress.com/2021/12/27/fiat-money/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Fiat%20money&url=https%3A%2F%2Fyourfinance66875445.wordpress.com%2F2021%2F12%2F27%2Ffiat-money%2F
+20:47:15	Warning: 	Found for https://yourfinance66875445.wordpress.com/2021/12/27/fiat-money/?share=facebook
+20:47:15	Warning: 	File has moved from https://yourfinance66875445.wordpress.com/2021/12/27/fiat-money/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fyourfinance66875445.wordpress.com%2F2021%2F12%2F27%2Ffiat-money%2F&t=Fiat%20money
+20:47:16	Error: 	"Not Found" (404) at link https://yourfinance66875445.wordpress.com/2021/12/27/fiat-money/GET (from https://yourfinance66875445.wordpress.com/2021/12/27/fiat-money/)
+20:47:16	Warning: 	Found for https://yourfinance66875445.wordpress.com/2021/12/27/future-of-finance/?share=twitter
+20:47:16	Warning: 	File has moved from https://yourfinance66875445.wordpress.com/2021/12/27/future-of-finance/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Future%20of%20finance&url=https%3A%2F%2Fyourfinance66875445.wordpress.com%2F2021%2F12%2F27%2Ffuture-of-finance%2F
+20:47:16	Warning: 	Found for https://yourfinance66875445.wordpress.com/2021/12/27/future-of-finance/?share=facebook
+20:47:16	Warning: 	File has moved from https://yourfinance66875445.wordpress.com/2021/12/27/future-of-finance/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fyourfinance66875445.wordpress.com%2F2021%2F12%2F27%2Ffuture-of-finance%2F&t=Future%20of%20finance
+20:47:16	Error: 	"Not Found" (404) at link https://yourfinance66875445.wordpress.com/2021/12/27/future-of-finance/GET (from https://yourfinance66875445.wordpress.com/2021/12/27/future-of-finance/)
+20:47:17	Error: 	"Not Found" (404) at link https://yourfinance66875445.wordpress.com/2021/11/10/personal-finance/%22https:/www.pexels.com/photo/person-holding-100-us-dollar-banknotes-2068975/ (from https://yourfinance66875445.wordpress.com/2021/11/10/personal-finance/)
+20:47:17	Warning: 	Found for https://yourfinance66875445.wordpress.com/2021/11/10/personal-finance/?share=twitter
+20:47:17	Warning: 	File has moved from https://yourfinance66875445.wordpress.com/2021/11/10/personal-finance/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Personal%20Finance&url=https%3A%2F%2Fyourfinance66875445.wordpress.com%2F2021%2F11%2F10%2Fpersonal-finance%2F
+20:47:17	Warning: 	Found for https://yourfinance66875445.wordpress.com/2021/11/10/personal-finance/?share=facebook
+20:47:17	Warning: 	File has moved from https://yourfinance66875445.wordpress.com/2021/11/10/personal-finance/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fyourfinance66875445.wordpress.com%2F2021%2F11%2F10%2Fpersonal-finance%2F&t=Personal%20Finance
+20:47:17	Error: 	"Not Found" (404) at link https://yourfinance66875445.wordpress.com/2021/11/10/personal-finance/GET (from https://yourfinance66875445.wordpress.com/2021/11/10/personal-finance/)
+20:47:17	Error: 	"Not Found" (404) at link https://yourfinance66875445.wordpress.com/category/uncategorized/GET (from https://yourfinance66875445.wordpress.com/category/uncategorized/)
+20:47:19	Error: 	"Not Found" (404) at link https://yourfinance66875445.wordpress.com/tag/finance/GET (from https://yourfinance66875445.wordpress.com/tag/finance/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 14 seconds : 82 links scanned, 62 files written (2137169 bytes overall) [1351329 bytes received at 18261 bytes/sec], 2256620 bytes transferred using HTTP compression in 53 files, ratio 24%, 2.0 requests per connection
+(11 errors, 12 warnings, 0 messages)
